@@ -167,7 +167,7 @@ This project is open source and available under the MIT License.
 
 For any questions or suggestions, feel free to reach out:
 - LinkedIn: [Naveen Gupta](https://www.linkedin.com/in/naveen-gupta-17042004na/)
-- Email: your.email@example.com
+- Email: naveenguptason@gmail.com
 
 ---
 
